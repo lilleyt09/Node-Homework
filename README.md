@@ -17,3 +17,5 @@
     
   # Contributors
   Yes
+
+A .gif file showing the program's functionality is located in ./assets.
